@@ -1,0 +1,23 @@
+{
+  "name": "discord-js-v14-handler-ts",
+  "version": "1.0.0",
+  "description": "Handler Template Using Discord.js-v14 an TS",
+  "main": "index.js",
+  "scripts": {
+    "start": "cls && node build/index.js"
+  },
+  "keywords": [],
+  "author": "NoBody",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^1.1.0",
+    "@types/node": "^18.7.14",
+    "chalk": "^4.1.2",
+    "discord.js": "14.3.0",
+    "dotenv": "^16.0.2",
+    "mongoose": "^6.5.4"
+  },
+  "devDependencies": {
+    "typescript": "^4.8.2"
+  }
+}
